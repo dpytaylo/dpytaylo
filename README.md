@@ -1,16 +1,15 @@
-### Hi there 👋
+### Introduction
+Hello! My name is Dmitry. I am the Rust/Python/Java/C++ programmer with programming experience from 2016 year. 
 
-<!--
-**dpytaylo/dpytaylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience in these spheres:
+- backend
+- frontend
+- graphics programming(OpenGL, Vulkan)
+- bot development(Discord)
 
-Here are some ideas to get you started:
+Now I am studying in [EHU/ESDE](https://en.ehu.lt/studies/computer-science/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me by this email: dpytaylo@gmail.com
+
+[![dpytaylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpytaylo&count_private=true)](https://github.com/dpytaylo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dpytaylo&hide=html&layout=compact)](https://github.com/dpytaylo)
