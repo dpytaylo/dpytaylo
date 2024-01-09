@@ -3,7 +3,7 @@
 <p>I have experience in these spheres:</p>
 <ul>
   <li>backend (Actix, Axum)</li>
-  <li>frontend (Dioxus, Yew)</li>
+  <li>frontend (Dioxus, Yew, Leptos)</li>
   <li>graphics programming (OpenGL, Vulkan)</li>
   <li>bot development (Discord)</li>
  </ul>
