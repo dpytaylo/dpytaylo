@@ -11,6 +11,8 @@
 <p>Feel free to contact me by this email: <a href="mailto:dpytaylo@gmail.com">dpytaylo@gmail.com</a></p>
 
 <div>
+  <a href="https://dpytaylo.me">Website</a>
+  · 
   <a href="https://www.linkedin.com/in/dmitry-pytaylo-a216bb261/">LinkedIn</a>
   · 
   <a href="https://t.me/dpytaylo">Telegram</a>
