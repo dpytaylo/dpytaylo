@@ -1,5 +1,5 @@
 <h3> Introduction </h3>
-<p>Hello! My name is Dmitry. I am the Java/Rust/Python/C++ programmer with programming experience from 2016 year.</p>
+<p>Hello! My name is Dmitry. I am the Python/Rust/Java programmer with programming experience from 2016 year.</p>
 <p>I have experience in these spheres:</p>
 <ul>
   <li>Python (fastapi, sqlalchemy, numpy, sympy, discord.py, openai)</li>
