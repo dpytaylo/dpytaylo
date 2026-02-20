@@ -19,6 +19,3 @@
   <a href="https://discord.com/users/362258590926372864/">Discord</a>
 </div>
 <br/>
-
-<p><a href="https://github.com/dpytaylo/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=dpytaylo&amp;count_private=true" alt="dpytaylo&#39;s GitHub stats" style="height: 180px;"></a>
-<a href="https://github.com/dpytaylo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpytaylo&amp;hide=html&amp;layout=compact" alt="Top Langs" style="height: 180px;"></a></p>
