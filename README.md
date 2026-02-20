@@ -2,18 +2,17 @@
 <p>Hello! My name is Dmitry. I am the Java/Rust/Python/C++ programmer with programming experience from 2016 year.</p>
 <p>I have experience in these spheres:</p>
 <ul>
-  <li>Java (Spring Boot, Thymeleaf, Maven)</li>
+  <li>Python (fastapi, sqlalchemy, numpy, sympy, discord.py, openai)</li>
   <li>Rust (Tokio, Axum, serenity, Vulkano, WebGL, nalgebra, Leptos, Dioxus)</li>
-  <li>Python (numpy, sympy, discord.py, openai)</li>
+  <li>Java (Spring Boot, Thymeleaf, Maven)</li>
   <li>PostgreSQL</li>
  </ul>
-<p>Now I am studying in <a href="https://ehu.epambachelor.com/">EHU/ESDE</a>.</p>
 <p>Feel free to contact me by this email: <a href="mailto:dpytaylo@gmail.com">dpytaylo@gmail.com</a></p>
 
 <div>
   <a href="https://dpytaylo.me">Website</a>
   · 
-  <a href="https://www.linkedin.com/in/dmitry-pytaylo-a216bb261/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/dpytaylo/">LinkedIn</a>
   · 
   <a href="https://t.me/dpytaylo">Telegram</a>
   · 
